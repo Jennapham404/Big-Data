@@ -1,3 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/4Z1fA4Nr)
-# assignment1-template
-Template and tests for assignment 1
+In this project, we focus on implementing a function 'build_deep_nn' that trains and evaluates a deep learning classifier on the MNIST dataset.
+
+The MNIST database is a large database of handwritten digits that is commonly used for training various image processing systems.
+
+Then, we use 'keras_tuner' to define the optimal parameters of the network model.
